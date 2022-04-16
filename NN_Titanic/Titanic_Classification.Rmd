@@ -115,5 +115,4 @@ confusionMatrix(factor(predicted.classes), factor(test.data$Survived), positive 
 The prediction with hidden layer is better than no hidden layer.
 
 
-
 # ---------The End---------
