@@ -9,4 +9,4 @@ Divide the cleaned data into 75% training and 25% testing.
 Classification:  
 Build the best classifier to predict passenger survival using the training data and the Perceptron model with no hidden layer.  
 Build the best classifier to predict passenger survival using the training data and the Perceptron model with 1 hidden layer with 3 neurons.  
-Compare the performance in test data between diffirent ckassifiers.  
+Compare the performance in test data between different ckassifiers.  
